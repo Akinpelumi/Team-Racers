@@ -1,0 +1,39 @@
+.Background {
+	background-color: #f5a04c;
+}
+#text__box{
+	background-color: #faa191;
+	border-radius: 20px;
+	border-color: #ff0905;
+	font-size: 40px;
+	width: 80%
+}
+#create__button {
+	background-color: #f0c7a3;
+	border-radius: 5px;
+	border-color: black;
+	font-size: 40px;
+	color: #3bff05;
+}
+#options__button {
+	background-color: #f0c7a3;
+	border-radius: 5px;
+	border-color: black;
+	font-size: 40px;
+}
+#voice__button {
+	background-color: #f0c7a3;
+	border-radius: 5px;
+	border-color: black;
+	font-size: 40px;
+}
+hr {
+	border-radius: 0px;
+	border-color: black;
+}
+img {
+	margin-left: 5px;
+}
+#count {
+	margin-left: 25px;
+}

@@ -9,4 +9,3 @@ function push() {
     shoppingListInput.value = '';
 }
 add.addEventListener('click',push);
-let arr = [add]

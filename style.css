@@ -1,12 +1,17 @@
 .Background {
-	background-color: #f5a04c;
+	background-image: url('Background.jpg');
+}
+h3 {
+	margin-left: 10px;
+	color: #ff0905;
+	font-style: italic;
 }
 #text__box{
 	background-color: #faa191;
 	border-radius: 20px;
 	border-color: #ff0905;
 	font-size: 40px;
-	width: 80%
+	width: 70%
 }
 #create__button {
 	background-color: #f0c7a3;
